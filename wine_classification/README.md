@@ -14,6 +14,6 @@ See [requirements.txt](./requirements.txt) for the full list of dependencies.
 
 ## Usage
 
-* The notebook [data_exploration.ipynp](./data_exploration.ipynp) can be used to investigate the dataset.
+* The notebook [data_exploration.ipynb](./data_exploration.ipynb) can be used to investigate the dataset.
 * To train and assess the model, run `python3 process.py`.
 * To clear the training data, delete the `results` directory.
